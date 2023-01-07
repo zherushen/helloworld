@@ -8,4 +8,5 @@
 
 # Welcome to ENTR-451
 
-This is my first trail.
+This is my first trail. woo
+now using Gitpod like a pre!
